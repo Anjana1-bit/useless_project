@@ -73,20 +73,12 @@ And when you finally want to escape the application...
 - **Package Manager:** pnpm
 - **Development Tools:** VS Code, Git
 
-### For Hardware:
-
-- N/A
-
-Googlen't is entirely software-based.
-
----
-
-# Implementation
-
-## Installation
-
-
-
 <img width="1600" height="836" alt="WhatsApp Image 2026-09-13 at 4 30 33 PM" src="https://github.com/user-attachments/assets/650c618c-7c71-469e-9310-8d834f8cc9d8" />
 
+<img width="1397" height="856" alt="WhatsApp Image 2026-09-13 at 4 29 01 PM (1)" src="https://github.com/user-attachments/assets/01ce73ab-9f1c-439c-bba8-8634eab1ea33" />
 
+<img width="943" height="822" alt="WhatsApp Image 2026-09-13 at 4 29 02 PM" src="https://github.com/user-attachments/assets/a081ae6a-c692-43af-9407-297b8b8e1f79" />
+
+<img width="1600" height="632" alt="WhatsApp Image 2026-09-13 at 4 29 31 PM" src="https://github.com/user-attachments/assets/bef034fe-d63c-49e3-b8d1-63efa328345c" />
+
+<img width="1600" height="836" alt="WhatsApp Image 2026-09-13 at 4 30 33 PM" src="https://github.com/user-attachments/assets/7291a1c7-e482-4612-a9b9-bee7e87c303f" />
