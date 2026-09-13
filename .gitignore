@@ -3,3 +3,5 @@ dist/
 server/.env
 __pycache__/
 *.pyc
+.env
+.env.example
