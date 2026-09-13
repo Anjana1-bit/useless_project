@@ -85,7 +85,8 @@ Googlen't is entirely software-based.
 
 ## Installation
 
-Clone the project and enter the project directory:
 
-```bash
-cd googlent
+
+<img width="1600" height="836" alt="WhatsApp Image 2026-09-13 at 4 30 33 PM" src="https://github.com/user-attachments/assets/650c618c-7c71-469e-9310-8d834f8cc9d8" />
+
+
